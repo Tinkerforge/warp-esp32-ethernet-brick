@@ -1,4 +1,4 @@
-ESP32 Ethernet WARP Brick
+WARP ESP32 Ethernet Brick
 =========================
 
 This repository contains the firmware source code and the hardware design
