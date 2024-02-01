@@ -2973,7 +2973,7 @@
         (effects (font (size 0.3 0.3) (thickness 0.075)))
       (tstamp e57ba27f-dc57-4cd9-8563-f86e55544550)
     )
-    (fp_text value "1nF/2kV" (at 0 -0.65) (layer "F.Fab")
+    (fp_text value "DNP" (at 0 -0.65) (layer "F.Fab")
         (effects (font (size 0.3 0.3) (thickness 0.075)))
       (tstamp eff26cd2-229d-46df-8704-91a767903723)
     )

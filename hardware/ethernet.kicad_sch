@@ -6,7 +6,7 @@
 
   (title_block
     (title "WARP ESP32 Ethernet Brick")
-    (date "2023-12-27")
+    (date "2024-02-01")
     (rev "1.3")
     (company "Tinkerforge GmbH")
     (comment 1 "Licensed under CERN OHL v.1.1")
@@ -2837,7 +2837,7 @@
     (property "Reference" "C314" (at 254 81.28 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "1nF/2kV" (at 252.73 78.74 90)
+    (property "Value" "DNP" (at 252.73 78.74 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "kicad-libraries:C1206" (at 255.27 74.93 0)
